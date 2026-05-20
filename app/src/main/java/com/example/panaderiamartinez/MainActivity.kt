@@ -17,7 +17,7 @@ import androidx.compose.runtime.*
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.*
 
-import com.example.panaderiamartinez.ui.theme.Panadería_MartinezTheme
+import com.example.panaderiamartinez.ui.theme.PanaderiaMartinezTheme
 
 import com.google.firebase.auth.FirebaseAuth
 
@@ -36,7 +36,7 @@ class MainActivity : ComponentActivity() {
             ////////////////////////////////////////////////////
             // 🎨 THEME
             ////////////////////////////////////////////////////
-            Panadería_MartinezTheme {
+            PanaderiaMartinezTheme {
 
                 ////////////////////////////////////////////////////
                 // 🧭 NAV CONTROLLER
