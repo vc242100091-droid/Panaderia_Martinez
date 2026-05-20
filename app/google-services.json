@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663407438471",
+    "project_id": "panaderiamartinez-348a2",
+    "storage_bucket": "panaderiamartinez-348a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663407438471:android:29b75d3942e1026c57e622",
+        "android_client_info": {
+          "package_name": "com.example.panaderiamartinez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqg36bxdKSrRsCim9jzNxLerqXctERhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
